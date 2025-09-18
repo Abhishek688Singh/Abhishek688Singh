@@ -85,6 +85,7 @@ About Me = {
     <code><a href="#" target="_blank"><img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="Adobe illustrator" alt="illustrator" width="40" height="40"/></a></code>&nbsp;
+   <code><a href="#" target="_blank"> <img src="https://vectorwiki.com/images/IqKa8__adobe-photoshop.svg" title="Adobe Photoshop" alt="illustrator" width="40" height="40"/></a></code>&nbsp;
 </div>
 <br>
 
