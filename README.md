@@ -68,21 +68,15 @@ About Me = {
 <!-- Skill Set (Database)  -->
 <div align="center">
     <h3><b>Databases</b></h3>
-    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://www.dbi-services.com/wp-content/uploads/2022/01/Logo-Mongodb-carre.png" title="MongoDB" alt="mongodb"  height="40"/></a></code>&nbsp;
-      <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL"  height="40"/></a></code>&nbsp;
-   <code><a #="#" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" title="Firebase" alt="firebase" height="40"/></a></code>&nbsp
+<!--     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp; -->
+   <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL"  height="40"/></a></code>&nbsp;
+  <code><a href="#" target="_blank"><img src="https://www.dbi-services.com/wp-content/uploads/2022/01/Logo-Mongodb-carre.png" title="MongoDB" alt="mongodb"  height="40"/></a></code>&nbsp;
+     
+<!--    <code><a #="#" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" title="Firebase" alt="firebase" height="40"/></a></code>&nbsp -->
 </div>
 <br>
 
-<!-- Skill Set (Cloud)  -->
-<div align="center">
-    <h3><b>Cloud</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></code>&nbsp;
-      <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
-  <code><a href="#" target="_blank"> <img src="https://www.iconsdb.com/icons/preview/white/triangle-xxl.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
-<br>
+
 
 <!-- Skill Set (Tools)  -->
 <div align="center">
