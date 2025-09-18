@@ -6,7 +6,7 @@
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank">
-        <img src="http://itshivam.in/api/github-profile?username=Abhishek688Singh&data=followers,repositories,stars,commits&theme=neon" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="http://itshivam.in/api/github-profile?username=Abhishek688Singh&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
   <div>
